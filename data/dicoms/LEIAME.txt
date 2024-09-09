@@ -1,1 +1,1 @@
-Acabei não conseguindo fazer o upload dos arquivos no próprio github porque consta que os nomes são muito extensos, por isso não upei os arquivos .dcm aqui especificamente. 
+Acabei diminuindo os nomes dos arquivos porque o git consta que os nomes são muito extensos, e então eu não conseguiria upar.
